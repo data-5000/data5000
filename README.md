@@ -36,7 +36,7 @@ Welcome to Programming Artificial Intelligence for Business Analytics. Here you 
 All individual notebooks will be accessible via a link in the slides. If you want to save a local copy with all of the notebooks run:
 
 ```bash
-  git clone https://github.com/dejan-commits/data5000.git
+  git clone https://github.com/data-5000/data5000.git
   cd data5000
 ```
     
