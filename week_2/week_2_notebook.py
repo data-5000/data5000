@@ -1,2 +1,0 @@
-
-print('week 2')
