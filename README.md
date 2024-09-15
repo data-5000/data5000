@@ -6,11 +6,11 @@ Welcome to Programming Artificial Intelligence for Business Analytics. Here you 
 
 ## Table of content
 
-- Week 1 - 
+- Week 1 - Introduction to Google Collab and loading data
 
-- Week 2 - 
+- Week 2 - Basics of ML, Explainable ML and Forecasting
 
-- Week 3 - 
+- Week 3 - Neural Networks and Temporal Fusion Transformer
 
 - Week 4 - 
 
