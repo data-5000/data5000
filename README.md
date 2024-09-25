@@ -12,15 +12,15 @@ Welcome to Programming Artificial Intelligence for Business Analytics. Here you 
 
 - Week 3 - Neural Networks and Temporal Fusion Transformer
 
-- Week 4 - 
+- Week 4 - Causal Machine Learning (AI)
 
-- Week 5 - 
+- Week 5 - Assessment 1
 
-- Week 6 - 
+- Week 6 - Causal ML & Meta-Learners
 
-- Week 7 - 
+- Week 7 - Large language Models and Generative Artificial Intelligence
 
-- Week 8 - 
+- Week 8 - AI in Image and Video Recognition
 
 - Week 9 - 
 
