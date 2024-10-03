@@ -14,7 +14,7 @@ Welcome to Programming Artificial Intelligence for Business Analytics. Here you 
 
 - Week 4 - Causal Machine Learning (AI)
 
-- Week 5 - Assessment 1
+- Week 5 - __Assessment 1__
 
 - Week 6 - Causal ML & Meta-Learners
 
@@ -22,13 +22,14 @@ Welcome to Programming Artificial Intelligence for Business Analytics. Here you 
 
 - Week 8 - AI in Image and Video Recognition
 
-- Week 9 - 
+- Week 9 -  __Assessment 2__
 
-- Week 10 - 
+- Week 10 - Deep Learning Models for Causal Inferences and Forecasting
 
-- Week 11 - 
+- Week 11 - Generative AI Models in Forecasting and Economic Indicators overview
 
-- Week 12 - 
+- Week 12 - Generative AI and Causal Models for Prediction
+
 
 
 ## Usage
